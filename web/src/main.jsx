@@ -1,0 +1,1 @@
+import React from "react";import{createRoot}from"react-dom/client";import"./style.css";function App(){return <main><h1>KaziLink 🇰🇪</h1><p>Kenya's employment marketplace.</p><p>Vercel-ready frontend with Daraja-ready FastAPI configuration.</p></main>}createRoot(document.getElementById("root")).render(<App/>);

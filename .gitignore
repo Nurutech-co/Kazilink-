@@ -1,0 +1,7 @@
+node_modules/
+web/node_modules/
+web/dist/
+.env
+backend/config/daraja.env
+backend/.env
+*.log

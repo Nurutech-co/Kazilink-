@@ -1,0 +1,4 @@
+config/daraja.env
+.env
+__pycache__/
+*.pyc
